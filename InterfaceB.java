@@ -1,0 +1,2 @@
+interface InterfaceB extends InterfaceA {
+}
